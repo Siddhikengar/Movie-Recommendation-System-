@@ -1,7 +1,8 @@
 # Movie-Recommendation-System-
 This project is a user-friendly Movie Recommendation System built using Python, Streamlit, and machine learning algorithms. It provides movie recommendations based on user input and offers features for category-based browsing.
 
-Features -
+## Features -
+
 Search-Based Recommendations: Enter a movie title to get personalized suggestions.
 
 Category-Based Browsing: Explore movies by genres like Action, Comedy, Drama, etc.
